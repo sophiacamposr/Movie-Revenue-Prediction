@@ -34,7 +34,6 @@ To build and evaluate multiple models that predict movie outcomes (e.g., success
 ---
 
 ## 📊 Models Built
-- Logistic Regression
 - Random Forest Classifier
 - Balanced Random Forest
 - XGBoost Regressor
@@ -53,7 +52,5 @@ To build and evaluate multiple models that predict movie outcomes (e.g., success
 - Scikit-learn
 - XGBoost
 
----
 
-## 📎 Notes
-This work demonstrates structured experimentation with model selection, tuning, and validation, and includes targeted analysis for improving predictions on specific subgroups (e.g., low-budget films).
+
